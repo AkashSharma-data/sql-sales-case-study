@@ -42,14 +42,11 @@ The database consists of three tables:
 - One customer can place multiple orders
 - One product can appear in multiple orders
 
-📷 ER Diagram included in the repository.
-
 ---
 
 ## 🛠 Tools & Technologies
 - SQL (MySQL / PostgreSQL compatible)
 - Relational Database Concepts
-- ER Diagram Design
 
 ---
 
